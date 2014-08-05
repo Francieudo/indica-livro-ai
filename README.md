@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Francieudo/indica-livro-ai.png?label=ready&title=Ready)](https://waffle.io/Francieudo/indica-livro-ai)
 indica-livro-ai
 ===============
 
